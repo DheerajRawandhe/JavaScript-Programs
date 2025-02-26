@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+  
+}
+p{
+    font-size: 1.3rem;
+}
+
+body{
+    background:lightcyan;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+h1{
+    color: rgb(64, 255, 0);
+}
+.container{
+    background: linear-gradient(rgb(181, 46, 218),rgb(103, 103, 244));
+    /* border: 4px solid rgb(5, 5, 5); */
+    border-radius: 20px;
+    border: 2px solid black;
+    padding: 2rem;
+    min-height: 60vh;
+    min-width: 60vh;
+}
+
+form{
+    margin: 2rem 0 1rem 0;
+}
+form select{
+    font-size: 1rem;
+    width: auto;
+    width: auto;
+    border: none;
+    outline: none;
+}
+form input{
+    border: 1px solid gray;
+    font-size: 1rem;
+    height: 2rem;
+    padding-left: 0.5rem;
+}
+
+button{
+    border: 1px solid gray;
+    font-size: 1.15rem;
+    height: 2rem;
+    padding-left: 0.5rem;
+    background-color: black;
+    color: white;
+    padding-right: 10px;
+    border-radius: 6px;
+    cursor:pointer;
+
+} 
+.city{
+    border-radius: 10px;
+    
+}
+.dropdown{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+
+}
+.dropdown i{
+    font-size: 1.80rem;
+    color: rgb(0, 0, 0);
+    margin-left: 30px;
+}
+.select-container img{
+    max-width: 2rem;
+}
+.select-container{
+    width: 6rem;    
+    display: flex;
+    border-radius: 0.5rem;
+    border: 2px solid lightgray;
+    justify-content: center;
+    align-items: center;
+
+}
+.msg{
+    margin: 1rem 0 1rem 0;
+}
+.btnn:hover{
+    color: rgb(82, 245, 0);
+}

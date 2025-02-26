@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Project in Js</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+    <div class="container">
+        <h1>Currency Converter</h1><br>
+        <form>
+            <div class="amount">
+                <p>Enter Amount</p>
+                <input  type="text" value="1000">
+
+            </div>
+            <div class="dropdown">
+                <div class="from">
+                    <p>From</p>
+              
+                <div class="select-container">
+                    <img src="https://flagsapi.com/US/flat/64.png" alt="Flag">
+                    <select  name="from"></select>
+                </div><br>
+                <i class="fa-solid fa-arrow-right-arrow-left"></i>
+                <div class="To"><p>To</p>
+                </div>
+                <div class="select-container">
+                    <img src="https://flagsapi.com/IN/flat/64.png" alt="Flag">
+                    <select  name="to"></select>
+            </div>
+            </div>
+            </div>
+            <div class="msg">1USD = 80 INR</div><br>
+            <button class="btnn">Gate Exchange Rate</button>
+        </form>
+    </div>
+
+<script src="api.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

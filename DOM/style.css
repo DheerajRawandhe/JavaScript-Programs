@@ -1,0 +1,16 @@
+body{
+    background-color:  pink;
+}
+button{
+    color: blue;
+}
+h2{
+    background-color: yellow;
+}
+#heading2{
+    background-color: rgb(4, 255, 25);
+}
+/* class ko  .Class se use */
+.new{
+    background-color: rgb(17, 237, 245);
+}
