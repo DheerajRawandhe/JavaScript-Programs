@@ -25,7 +25,7 @@ Below are the key topics I explored :-
  ✅ Event Handling  
 - Explored handling user interactions like **click, keypress, and hover** events  
 
-## ✅ Synchronous & Asynchronous JavaScript  
+### ✅ Synchronous & Asynchronous JavaScript  
 - Understood **callbacks, promises, and async/await** for handling API requests  
 
 ## ✅ APIs  
