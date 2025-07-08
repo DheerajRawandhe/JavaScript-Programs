@@ -15,7 +15,7 @@ Below are the key topics I explored :-
 - Used arithmetic, comparison, logical, and assignment operators  
 - Practiced **if-else, switch, and loop statements**  
 
-## ✅ Loops  
+### ✅ Loops  
 - **for, while, and do-while** loops to repeat tasks efficiently  
 
 ## ✅ DOM Manipulation  
