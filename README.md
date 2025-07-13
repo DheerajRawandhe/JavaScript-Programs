@@ -3,7 +3,7 @@ I have learned and covered many concepts in JavaScript. I have gained hands-on e
 
 
 ### JavaScript Learning Journey 🚀
-I have learned and covered many concepts in **JavaScript**. 
+I have learned and covered many concepts in **JavaScript. 
 Below are the key topics I explored :-
 
 ## 📌 JavaScript Concepts Covered
