@@ -1,7 +1,7 @@
 # JavaScript-Programs
 I have learned and covered many concepts in JavaScript. I have gained hands-on experience in JavaScript, improving my problem-solving skills.
 
-### JavaScript Learning Journey 🚀
+### JavaScript Learning Journey :
 I have learned and covered many concepts in JavaScript. 
 Below are the key topics I explored :-
 
