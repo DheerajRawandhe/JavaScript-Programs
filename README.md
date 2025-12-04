@@ -6,7 +6,7 @@ I have learned and covered many concepts in JavaScript.
 Below are the key topics I explored :
 
 ## 📌 JavaScript Concepts Covered
-### ✅ Variables & Data Types  
+###  Variables & Data Types  
 - Learned about `var`, `let`, and `const`  
 - Explored different data types like **strings, numbers, booleans, arrays, and objects**  
 
