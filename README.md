@@ -10,7 +10,7 @@ Below are the key topics I explored :
 - Learned about `var`, `let`, and `const`  
 - Explored different data types like **strings, numbers, booleans, arrays, and objects**  
 
-### Operators & Statements  :
+### Operators & Statements :
 - Used arithmetic, comparison, logical, and assignment operators  
 - Practiced **if-else, switch, and loop statements**  
 
