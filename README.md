@@ -17,7 +17,7 @@ Below are the key topics I explored :
 ### Loops  
 - **for, while, and do-while** loops to repeat tasks efficiently  
 
-### DOM Manipulation  
+### DOM Manipulation  :
 - Learned how to access and modify HTML elements using JavaScript 
 - Used methods like `getElementById()`, `querySelector()`, and `addEventListener()`  
 
