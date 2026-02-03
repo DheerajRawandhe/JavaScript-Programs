@@ -21,7 +21,7 @@ Below are the key topics I explored :
 - Learned how to access and modify HTML elements using JavaScript 
 - Used methods like `getElementById()`, `querySelector()`, and `addEventListener()`  
 
- Event Handling  
+ Event Handling  :
 - Explored handling user interactions like **click, keypress, and hover** events  
 
 ### Synchronous & Asynchronous JavaScript  
